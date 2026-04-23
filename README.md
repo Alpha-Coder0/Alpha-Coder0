@@ -23,6 +23,7 @@
 - Java
 - JavaScript
 - Python (basic/intermediate)
+- C++
 
 ### 🌐 Web Development
 - HTML / CSS
