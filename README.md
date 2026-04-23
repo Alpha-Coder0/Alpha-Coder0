@@ -29,13 +29,6 @@
 - HTML / CSS
 - Node.js
 - Responsive Design
-
-### 🔐 Cybersecurity
-- Network Scanning
-- Vulnerability Assessment
-- Basic Exploitation Techniques
-- Kali Linux Tools
-
 ---
 ## 📌 Projects
 
