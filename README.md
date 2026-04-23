@@ -40,7 +40,7 @@
 
 ### 🔐 Password Manager (Java)
 A secure desktop app for storing and managing passwords.
-🔗 https://github.com/yourusername/password-manager
+🔗 
 
 ---
 
@@ -52,7 +52,7 @@ Task manager with GUI and file persistence.
 
 ### 🌐 Portfolio Website
 Responsive modern website with clean UI.
-🔗 https://github.com/yourusername/portfolio
+🔗 https://github.com/Alpha-Coder0/Portfolio
 ---
 
 If you want, I can upgrade this into:
