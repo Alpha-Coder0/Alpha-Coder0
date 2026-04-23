@@ -46,6 +46,14 @@
 
 ---
 
+If you want, I can upgrade this into:
+- :contentReference[oaicite:0]{index=0}
+- :contentReference[oaicite:1]{index=1}
+- :contentReference[oaicite:2]{index=2}
+
+Just tell me the vibe you want.
+---
+
 ## 📊 GitHub Stats
 
 ```bash
