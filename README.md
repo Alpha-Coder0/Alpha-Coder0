@@ -32,24 +32,27 @@
 - Kali Linux Tools
 
 ---
-
 ## 📌 Projects
 
-### 🔑 Password Manager (Java)
-> Secure desktop app for managing passwords with file handling and GUI.
-
-### 📝 To-Do App (Java Swing)
-> Simple productivity tool with GUI and file storage.
-
-### 🌐 Website Projects
-> Responsive modern websites with clean UI/UX.
+### 🔐 Password Manager (Java)
+A secure desktop app for storing and managing passwords.
+🔗 https://github.com/yourusername/password-manager
 
 ---
 
+### 📝 To-Do App (Java Swing)
+Task manager with GUI and file persistence.
+🔗 https://github.com/yourusername/todo-app
+
+---
+
+### 🌐 Portfolio Website
+Responsive modern website with clean UI.
+🔗 https://github.com/yourusername/portfolio
+---
+
 If you want, I can upgrade this into:
-- :contentReference[oaicite:0]{index=0}
-- :contentReference[oaicite:1]{index=1}
-- :contentReference[oaicite:2]{index=2}
+
 
 Just tell me the vibe you want.
 ---
