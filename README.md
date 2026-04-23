@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Marwan
 
-<!--
-**Alpha-Coder0/Alpha-Coder0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Penetration Tester | Programmer | Ethical Hacker  
+🚀 Passionate about cybersecurity, coding, and building real-world solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🔐 Focused on **Ethical Hacking & Penetration Testing**
+- 🧑‍💻 Skilled in **Java, JavaScript, and Web Development**
+- ⚙️ Interested in **Automation, Security Tools & Backend Systems**
+- 📚 Always learning and improving my technical skills
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
+- Java
+- JavaScript
+- Python (basic/intermediate)
+
+### 🌐 Web Development
+- HTML / CSS
+- Node.js
+- Responsive Design
+
+### 🔐 Cybersecurity
+- Network Scanning
+- Vulnerability Assessment
+- Basic Exploitation Techniques
+- Kali Linux Tools
+
+---
+
+## 📌 Projects
+
+### 🔑 Password Manager (Java)
+> Secure desktop app for managing passwords with file handling and GUI.
+
+### 📝 To-Do App (Java Swing)
+> Simple productivity tool with GUI and file storage.
+
+### 🌐 Website Projects
+> Responsive modern websites with clean UI/UX.
+
+---
+
+## 📊 GitHub Stats
+
+```bash
