@@ -54,13 +54,3 @@ Task manager with GUI and file persistence.
 Responsive modern website with clean UI.
 🔗 https://github.com/Alpha-Coder0/Portfolio
 ---
-
-If you want, I can upgrade this into:
-
-
-Just tell me the vibe you want.
----
-
-## 📊 GitHub Stats
-
-```bash
