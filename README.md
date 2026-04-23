@@ -38,12 +38,6 @@
 ---
 ## 📌 Projects
 
-### 🔐 Password Manager (Java)
-A secure desktop app for storing and managing passwords.
-🔗 
-
----
-
 ### 📝 To-Do App (Java Swing)
 Task manager with GUI and file persistence.
 
