@@ -2,8 +2,6 @@
 
 🖥️ https://marawan3skar.netlify.app/
 
-💻 Penetration Tester | Programmer | Ethical Hacker  
-
 🚀 Passionate about cybersecurity, coding, and building real-world solutions
 
 ---
